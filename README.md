@@ -56,7 +56,7 @@ My classes emphasize developing students' analytical thinking and practical codi
 
 - 📌 Build an applied research track in **AI for Vocational Education & SDGs**
 - 🧪 Publish in Scopus-indexed journals (Q2/Q3)
-- 🎓 Pursue PhD in AI/ML starting in **2031**
+- 🎓 Pursue PhD in AI/ML 
 - 👨‍👩‍👧‍👦 Maintain work-life balance
 
 ---
