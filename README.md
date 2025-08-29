@@ -54,7 +54,7 @@ My classes emphasize developing students' analytical thinking and practical codi
 
 ## 📈 Long-Term Goals
 
-- 📌 Build an applied research track in **AI for Vocational Education & SDGs**
+- 📌 Build an applied research track in **AI for Vocational Education & SMEs**
 - 🧪 Publish in Scopus-indexed journals (Q2/Q3)
 - 🎓 Pursue PhD in AI/ML 
 - 👨‍👩‍👧‍👦 Maintain work-life balance
